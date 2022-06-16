@@ -1,0 +1,1 @@
+export const end_point = "http://play2api.ddns.net:3001/"
